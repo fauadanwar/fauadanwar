@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fouad Anwar
 - 👀 I’m interested in Mobile application develpment and project managment.
-- 🌱 I’m currently learning Project Arcitecture, design patterns and best practices with Kotlin for Android, Agile practices and SwiftUI.
+- 🌱 I’m currently learning project arcitectures, design patterns and best practices with Kotlin for Android, Agile practices and SwiftUI.
 - 📫 Reach me @ fauad.anwar@gmail.com
 
 <!---
